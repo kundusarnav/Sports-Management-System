@@ -1,0 +1,35 @@
+            #d1{
+                margin-left: 320px;
+                background-color: lightgreen;
+                width: 50%;
+                border-radius: 6px;
+            }
+  input[type=text],input[type=email],input[type=password],textarea {
+  width: 35%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+  input[type=submit] {
+  background-color: orange;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+input[type=submit]:hover {
+  background-color: lightskyblue;
+}
+button{
+    background-color: red;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: lightskyblue;
+  }
